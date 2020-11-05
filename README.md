@@ -1,6 +1,6 @@
-# ADIS2020 Hands-on Sessions
+# ADIS-Workshop-2020 Hands-on Sessions
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/srmnitc/structural_analysis_ADIS_2020/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pyiron/ADIS-workshop-2020/HEAD)
 
 As part of [ADIS2020](https://www.mpie.de/4433801/adis2020) we had two hands-on programming sessions with the results collected here.
 
