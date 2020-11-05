@@ -6,7 +6,7 @@ dependencies:
 - lammps
 - nglview
 - seaborn
-- ovito
+- ovito =2.9
 - pyscal
 - jupyterlab
 - nodejs >=10.0
